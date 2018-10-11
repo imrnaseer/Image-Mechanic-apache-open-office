@@ -1,4 +1,4 @@
-# Image-Mechanic-apache-open-office
+# Image Mechanic for Apache open office
 
 A light weight Image processing tool/extension for apache open office.
 You need to mention the features you added to Image Mechanic here.
