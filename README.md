@@ -4,18 +4,18 @@ A light weight Image processing tool/extension for apache open office.
 You need to mention the features you added to Image Mechanic here.
 
 # Features
-•	Contrast Adjusting.
-•	Auto contrast.
-•	Black & white conversion.
-•	Manual thresholding.
-•	Alpha Blending.
-•	Edge Filtering : - canny, prewitt, Robert, sobel.
-•	Smoothing Filtering.
-•	Linear Filters: Box, Gaussian, Laplace.
-•	Non-Linear Filters: Min, Max, median.
-•	Text labeling.
-•	RGB to Gray image conversion.
-•	Image inverting.
-•	Manual Brightness.
-•	Image flipping (horizontal, vertical).
-•	Histogram generator.
+•	Contrast Adjusting.</br>
+•	Auto contrast.</br>
+•	Black & white conversion</br>
+•	Manual thresholding.</br>
+•	Alpha Blending.</br>
+•	Edge Filtering : - canny, prewitt, Robert, sobel.</br>
+•	Smoothing Filtering.</br> 
+•	Linear Filters: Box, Gaussian, Laplace.</br> 
+•	Non-Linear Filters: Min, Max, median.</br> 
+•	Text labeling.</br> 
+•	RGB to Gray image conversion.</br> 
+•	Image inverting.</br> 
+•	Manual Brightness.</br> 
+•	Image flipping (horizontal, vertical).</br> 
+•	Histogram generator.</br>
