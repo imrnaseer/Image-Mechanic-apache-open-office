@@ -1,0 +1,35 @@
+################ IMAGE~MECHANIC ###################
+
+this is a simple image editing tool for Apache open office, which has 
+most of the image processing tools like
+ 
+1)contrast,
+2)auto contrast,
+3)black & white images with manual thresholding,
+4)Alpha Blending,
+5)Edge Filters :-canny,prewitt,Robert,sobel
+6)Smooth Filters
+Linear Filters :- 
+box,
+Gaussian,
+Laplace
+Non-Linear Filters :-
+Min,
+Max,
+median
+7)convert RGB to Gray
+8)invert image colours
+9)Adjust Brightness
+10)flip images (horizontal,vertical)
+
+with ability of plot graphs for each functions.
+
+so students those who are studying image processing can create their 
+reports with images and their graphs so quickly.
+for others, also can get lot of benefits using this extension.
+
+
+Copyright (c) 2016 [Mohammad NaseeR,Aslal Sujath,
+Sankalpani Sewwandika,Mohammad Jafran]
+
+#################################################

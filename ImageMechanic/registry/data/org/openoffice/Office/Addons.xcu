@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Addons" oor:package="org.openoffice.Office">
+  <node oor:name="AddonUI">
+    <node oor:name="OfficeMenuBar">
+      <node oor:name="uoj.csc.rad.gp1.imagemechanic" oor:op="replace">
+        <prop oor:name="Title" oor:type="xs:string">
+          <value/>
+          <value xml:lang="en">ImageMechanic</value>
+        </prop>
+        <prop oor:name="Target" oor:type="xs:string">
+          <value>_self</value>
+        </prop>
+        <prop oor:name="ImageIdentifier" oor:type="xs:string">
+          <value/>
+        </prop>
+        <node oor:name="Submenu">
+          <node oor:name="m1" oor:op="replace">
+            <prop oor:name="URL" oor:type="xs:string">
+              <value>uoj.csc.rad.gp1.imagemechanic:Command0</value>
+            </prop>
+            <prop oor:name="ImageIdentifier" oor:type="xs:string">
+              <value/>
+            </prop>
+            <prop oor:name="Target" oor:type="xs:string">
+              <value>_self</value>
+            </prop>
+            <prop oor:name="Context" oor:type="xs:string">
+              <value/>
+            </prop>
+            <prop oor:name="Title" oor:type="xs:string">
+              <value/>
+              <value xml:lang="en">igarage</value>
+            </prop>
+          </node>
+          <node oor:name="m2" oor:op="replace">
+            <prop oor:name="URL" oor:type="xs:string">
+              <value>uoj.csc.rad.gp1.imagemechanic:Command1</value>
+            </prop>
+            <prop oor:name="ImageIdentifier" oor:type="xs:string">
+              <value/>
+            </prop>
+            <prop oor:name="Target" oor:type="xs:string">
+              <value>_self</value>
+            </prop>
+            <prop oor:name="Context" oor:type="xs:string">
+              <value/>
+            </prop>
+            <prop oor:name="Title" oor:type="xs:string">
+              <value/>
+              <value xml:lang="en">ihelp</value>
+            </prop>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node oor:name="OfficeToolBar">
+      <node oor:name="uoj.csc.rad.gp1.imagemechanic" oor:op="replace">
+        <prop oor:name="Title" oor:type="xs:string" oor:localized="true">
+          <value xml:lang="en">Dummy</value>
+        </prop>
+        <node oor:name="ToolBarItems">
+      <node oor:name="m1" oor:op="replace">
+        <prop oor:name="URL" oor:type="xs:string">
+          <value>uoj.csc.rad.gp1.imagemechanic:Command0</value>
+        </prop>
+        <prop oor:name="ImageIdentifier" oor:type="xs:string">
+          <value/>
+        </prop>
+        <prop oor:name="Target" oor:type="xs:string">
+          <value>_self</value>
+        </prop>
+        <prop oor:name="Context" oor:type="xs:string">
+          <value>com.sun.star.frame.Bibliography,com.sun.star.chart.ChartDocument,com.sun.star.sdb.OfficeDatabaseDocument,com.sun.star.drawing.DrawingDocument,com.sun.star.formula.FormulaProperties,com.sun.star.presentation.PresentationDocument,com.sun.star.sheet.SpreadsheetDocument,com.sun.star.text.TextDocument,com.sun.star.text.GlobalDocument</value>
+        </prop>
+        <prop oor:name="Title" oor:type="xs:string">
+          <value/>
+          <value xml:lang="en">igarage</value>
+        </prop>
+      </node>
+      <node oor:name="m2" oor:op="replace">
+        <prop oor:name="URL" oor:type="xs:string">
+          <value>uoj.csc.rad.gp1.imagemechanic:Command1</value>
+        </prop>
+        <prop oor:name="ImageIdentifier" oor:type="xs:string">
+          <value/>
+        </prop>
+        <prop oor:name="Target" oor:type="xs:string">
+          <value>_self</value>
+        </prop>
+        <prop oor:name="Context" oor:type="xs:string">
+          <value/>
+        </prop>
+        <prop oor:name="Title" oor:type="xs:string">
+          <value/>
+          <value xml:lang="en">ihelp</value>
+        </prop>
+      </node>
+        </node>
+      </node>
+    </node>
+    <node oor:name="Images">
+      <node oor:name="uoj.csc.rad.gp1.imagemechanic.command0.images" oor:op="replace">
+        <prop oor:name="URL" oor:type="xs:string">
+          <value>uoj.csc.rad.gp1.imagemechanic:Command0</value>
+        </prop>
+        <node oor:name="UserDefinedImages">
+          <prop oor:name="ImageSmallURL">
+            <value>%origin%/../../../../../images/img1.png</value>
+          </prop>
+          <prop oor:name="ImageBigURL">
+            <value/>
+          </prop>
+          <prop oor:name="ImageSmallHCURL">
+            <value/>
+          </prop>
+          <prop oor:name="ImageBigHCURL">
+            <value/>
+          </prop>
+        </node>
+      </node>
+      <node oor:name="uoj.csc.rad.gp1.imagemechanic.command1.images" oor:op="replace">
+        <prop oor:name="URL" oor:type="xs:string">
+          <value>uoj.csc.rad.gp1.imagemechanic:Command1</value>
+        </prop>
+        <node oor:name="UserDefinedImages">
+          <prop oor:name="ImageSmallURL">
+            <value>%origin%/../../../../../images/img2.png</value>
+          </prop>
+          <prop oor:name="ImageBigURL">
+            <value/>
+          </prop>
+          <prop oor:name="ImageSmallHCURL">
+            <value/>
+          </prop>
+          <prop oor:name="ImageBigHCURL">
+            <value/>
+          </prop>
+        </node>
+      </node>
+      </node>
+  </node>
+</oor:component-data>
