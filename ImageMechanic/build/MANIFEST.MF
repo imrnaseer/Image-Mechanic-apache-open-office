@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_112-b15 (Oracle Corporation)
+UNO-Type-Path: 
+RegistrationClassName: uoj.csc.rad.gp1.CentralRegistrationClass
+Class-Path: 
+
+Name: uoj/csc/rad/gp1/CentralRegistrationClass.class
+RegistrationClasses: uoj.csc.rad.gp1.ImageMechanic
+
