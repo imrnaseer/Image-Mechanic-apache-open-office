@@ -2,7 +2,8 @@
 
 A light weight Image processing tool/extension for apache open office.
 
-Features
+# Features
+<ul>
 •	Contrast Adjusting.
 •	Auto contrast.
 •	Black & white conversion.
@@ -18,3 +19,4 @@ Features
 •	Manual Brightness.
 •	Image flipping (horizontal, vertical).
 •	Histogram generator.
+</ul>
